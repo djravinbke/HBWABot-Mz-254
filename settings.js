@@ -12,7 +12,7 @@ global.autoread = true // true a i dah chuan message zawng zawng read vek zelin 
 global.autoread_status = true // true a i dah chuan auto status view in a awm ang
 
 //info
-global.owner = ['918416093656'] // I phone number in thlak rawh
+global.owner = ['254708430362'] // I phone number in thlak rawh
 global.ownernumber = '918416093656' // I phone number in thlak rawh
 global.ownername = "꧁Herbert♕꧂" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
